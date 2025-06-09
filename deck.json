@@ -225,6 +225,7 @@
     {
       "__type__": "Note",
       "data": "",
+      "guid": "123",
       "fields": [
         "undo last selection vscode",
         "cmd + U"
