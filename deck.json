@@ -1,0 +1,25 @@
+{
+  "__type__": "Deck",
+  "children": [],
+  "deck_config_uuid": "456",
+  "desc": "Deck from Web Searches",
+  "dyn": 0,
+  "id": 1749496509139,
+  "name": "anki-cards",
+  "notes": [
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "teste",
+        "aaa"
+      ],
+      "flags": 0,
+      "guid": "search-1749496509139",
+      "note_model_uuid": "123",
+      "tags": [
+        "from_search"
+      ]
+    }
+  ]
+}
