@@ -208,6 +208,19 @@
       "tags": [
         "from_search"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "invert grep match",
+        "grep -v"
+      ],
+      "flags": 0,
+      "note_model_uuid": "afa120ef-5326-11ed-92ce-9cb6d00b5728",
+      "tags": [
+        "from_search"
+      ]
     }
   ],
   "reviewLimit": null,
