@@ -235,6 +235,20 @@
       "tags": [
         "from_search"
       ]
+    },
+    {
+      "__type__": "Note",
+      "data": "",
+      "fields": [
+        "boom",
+        "padam"
+      ],
+      "flags": 0,
+      "guid": "5f3565e0-3f5b-4125-5459-7c9f8f19e446",
+      "note_model_uuid": "afa120ef-5326-11ed-92ce-9cb6d00b5728",
+      "tags": [
+        "from_search"
+      ]
     }
   ],
   "reviewLimit": null,
