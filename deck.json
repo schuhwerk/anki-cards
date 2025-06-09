@@ -104,7 +104,7 @@
           "excludeFromSearch": false,
           "font": "Arial",
           "id": null,
-          "name": "RÃ¼ckseite",
+          "name": "Rückseite",
           "ord": 1,
           "plainText": false,
           "preventDeletion": false,
@@ -134,7 +134,7 @@
       ],
       "tmpls": [
         {
-          "afmt": "<div id=\"header\">{{Vorderseite}}</div>\n<div id=\"kard\">\n{{RÃ¼ckseite}}\n</div>\n\n</script>\n<div id=\"footer\">\nDeck: {{Deck}}\n<br>\nTags: {{Tags}}\n</div>",
+          "afmt": "<div id=\"header\">{{Vorderseite}}</div>\n<div id=\"kard\">\n{{Rückseite}}\n</div>\n\n</script>\n<div id=\"footer\">\nDeck: {{Deck}}\n<br>\nTags: {{Tags}}\n</div>",
           "bafmt": "",
           "bfont": "",
           "bqfmt": "",
