@@ -195,18 +195,6 @@
       "tags": [
         "from_search"
       ]
-    },
-    {
-      "__type__": "Note",
-      "data": "",
-      "fields": [
-        "abo",
-        "wat"
-      ],
-      "flags": 0,
-      "tags": [
-        "from_search"
-      ]
     }
   ],
   "reviewLimit": null,
